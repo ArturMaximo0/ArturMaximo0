@@ -18,7 +18,7 @@ GitHub estatísticas:
 Linguagens principais:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMaximo0&layout=compact&theme=tokyonight)
 
-Observação: movi e agrupei os badges/estatísticas para facilitar a leitura logo abaixo do título.
+
 
 ## Tech Stack
 
