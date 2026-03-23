@@ -34,4 +34,4 @@ Principais tecnologias e ferramentas que uso:
 
 - Linkedin: https://www.linkedin.com/in/artur-maximo-fonseca
 
-- Email:artur_fonseca@outlook.com / arturmaximofons@gmail.com
+- Email: artur_fonseca@outlook.com / arturmaximofons@gmail.com
