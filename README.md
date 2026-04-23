@@ -10,7 +10,7 @@ Convido você a ver meus projetos e estatísticas abaixo.
 ## Badges & Estatísticas
 
 Tecnologias (principais):  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 
 GitHub estatísticas:  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturMaximo0&show_icons=true&theme=tokyonight)  
